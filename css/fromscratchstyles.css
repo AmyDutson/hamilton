@@ -1,0 +1,39 @@
+img {
+    width: 800px;
+    border-radius: 15px 15px 0 0;
+}
+
+header {
+    color: rgb(98, 59, 138);
+    font-family: 'Tangerine', cursive;
+    font-size:xx-large;
+}
+
+nav{
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(242, 212, 178);
+}
+
+body{
+    font-family: 'Tangerine', cursive;
+    background-color: bisque;
+    font-size: large;
+}
+
+.about{
+    color: rgb(17, 92, 10);
+    font-weight: 600;
+    font-size: x-large;
+}
+
+.characters{
+    color: rgb(98, 59, 138);
+    font-size: larger;
+    position: relative;
+    left: 100px;
+}
+
+.trailer{  
+    color: rgb(17, 92, 10);
+    font-size: x-large;
+}
